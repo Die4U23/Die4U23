@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Die4U23 👋
 
-<!--
-**Die4U23/Die4U23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in high-performance, high-concurrency systems.
 
-Here are some ideas to get you started:
+我对高性能、高并发系统开发感兴趣。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+- **[Raft-KV](https://github.com/Die4U23/Raft-KV)** — A distributed key-value store project focused on consensus, consistency, and reliability engineering.
+- **[EvoRec](https://github.com/Die4U23/EvoRec)** — A recommendation-system research project with an emphasis on experiment provenance and reproducibility.
+- **[ArcBench Agent](https://github.com/Die4U23/arcbench-agent)** — A course project exploring a coding-agent workflow from requirements to build, test, and repair.
+
+I also write about algorithms, C++, and software engineering on my [blog](https://mengsblog.top).
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,linux,git,js,docker,redis,pytorch,fastapi&perline=9" alt="C++, Python, Linux, Git, JavaScript, Docker, Redis, PyTorch, and FastAPI" />
+</p>
