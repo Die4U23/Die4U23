@@ -1,8 +1,8 @@
 # Hi, I'm Die4U23 👋
 
-I'm interested in high-performance, high-concurrency systems.
+**English** | [简体中文](README_CN.md)
 
-我对高性能、高并发系统开发感兴趣。
+I'm interested in high-performance, high-concurrency systems.
 
 <p align="center">
   <img src="./assets/readme/profile-decoration.svg" width="100%" alt="Die4U23 名字与柔和粉彩花叶装饰" />
