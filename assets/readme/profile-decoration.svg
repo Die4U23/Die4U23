@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="180" viewBox="0 0 1200 180"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Soft botanical decoration</title>
+  <desc id="desc">A quiet pastel floral and leaf illustration used as a decorative accent.</desc>
+
+  <rect width="1200" height="180" rx="24" fill="#fbf8f2"/>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 166C116 134 133 93 182 30" stroke="#8eaa91" stroke-width="4"/>
+    <path d="M112 130C82 124 67 105 69 86C93 90 111 105 112 130Z" fill="#b9cfb5" stroke="#8eaa91" stroke-width="2"/>
+    <path d="M143 88C143 63 159 48 181 45C180 69 165 85 143 88Z" fill="#d8e2c8" stroke="#8eaa91" stroke-width="2"/>
+    <path d="M100 148C124 143 142 149 153 164C131 171 111 164 100 148Z" fill="#d8e2c8" stroke="#8eaa91" stroke-width="2"/>
+
+    <path d="M198 54C185 40 188 22 203 12C219 26 218 43 198 54Z" fill="#f0b5a6" stroke="#cf8d82" stroke-width="2"/>
+    <path d="M199 55C202 35 218 26 237 31C238 51 223 63 199 55Z" fill="#f5c8b7" stroke="#cf8d82" stroke-width="2"/>
+    <path d="M198 55C220 53 232 67 229 85C209 87 196 74 198 55Z" fill="#e9a99d" stroke="#cf8d82" stroke-width="2"/>
+    <path d="M197 56C192 76 175 82 159 72C163 52 179 43 197 56Z" fill="#f5c8b7" stroke="#cf8d82" stroke-width="2"/>
+    <circle cx="198" cy="56" r="7" fill="#e6bf70" stroke="none"/>
+
+    <path d="M1022 162C1067 131 1082 92 1129 28" stroke="#8eaa91" stroke-width="4"/>
+    <path d="M1065 128C1037 122 1022 104 1025 85C1049 89 1066 104 1065 128Z" fill="#d8e2c8" stroke="#8eaa91" stroke-width="2"/>
+    <path d="M1093 85C1094 62 1110 47 1132 44C1131 67 1116 82 1093 85Z" fill="#b9cfb5" stroke="#8eaa91" stroke-width="2"/>
+    <path d="M1051 145C1074 139 1092 146 1103 161C1081 168 1062 161 1051 145Z" fill="#b9cfb5" stroke="#8eaa91" stroke-width="2"/>
+
+    <path d="M1112 52C1098 38 1102 20 1117 10C1133 24 1132 41 1112 52Z" fill="#c9c0e4" stroke="#9386bc" stroke-width="2"/>
+    <path d="M1113 53C1116 33 1132 24 1151 29C1152 49 1137 61 1113 53Z" fill="#ddd5ef" stroke="#9386bc" stroke-width="2"/>
+    <path d="M1112 53C1134 51 1146 65 1143 83C1123 85 1110 72 1112 53Z" fill="#c9c0e4" stroke="#9386bc" stroke-width="2"/>
+    <path d="M1111 54C1106 74 1089 80 1073 70C1077 50 1093 41 1111 54Z" fill="#ddd5ef" stroke="#9386bc" stroke-width="2"/>
+    <circle cx="1112" cy="54" r="7" fill="#e6bf70" stroke="none"/>
+  </g>
+
+  <g fill="#d99f91" opacity=".8">
+    <circle cx="306" cy="50" r="4"/>
+    <circle cx="354" cy="126" r="3"/>
+    <circle cx="888" cy="48" r="3"/>
+    <circle cx="934" cy="119" r="4"/>
+  </g>
+  <path d="M475 39l5 10 10 5-10 5-5 10-5-10-10-5 10-5 5-10Zm325 70 4 8 8 4-8 4-4 8-4-8-8-4 8-4 4-8Z" fill="#e5c77d" opacity=".9"/>
+  <text x="600" y="111" text-anchor="middle" fill="#635872"
+        font-family="Georgia, 'Songti SC', serif" font-size="48" font-weight="600"
+        letter-spacing="2">Die4U23</text>
+</svg>

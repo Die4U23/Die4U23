@@ -4,6 +4,10 @@ I'm interested in high-performance, high-concurrency systems.
 
 我对高性能、高并发系统开发感兴趣。
 
+<p align="center">
+  <img src="./assets/readme/profile-decoration.svg" width="100%" alt="Die4U23 名字与柔和粉彩花叶装饰" />
+</p>
+
 ## Selected work
 
 - **[Raft-KV](https://github.com/Die4U23/Raft-KV)** — A distributed key-value store project focused on consensus, consistency, and reliability engineering.
