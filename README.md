@@ -2,6 +2,8 @@
 
 **English** | [简体中文](README_CN.md)
 
+Computer Science and Technology · Shanghai Jiao Tong University (SJTU) · 2024 cohort
+
 I'm interested in high-performance, high-concurrency systems.
 
 <p align="center">
