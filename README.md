@@ -12,9 +12,10 @@ I'm interested in high-performance, high-concurrency systems.
 
 ## Selected work
 
-- **[Raft-KV](https://github.com/Die4U23/Raft-KV)** — A distributed key-value store project focused on consensus, consistency, and reliability engineering.
-- **[EvoRec](https://github.com/Die4U23/EvoRec)** — A recommendation-system research project with an emphasis on experiment provenance and reproducibility.
-- **[ArcBench Agent](https://github.com/Die4U23/arcbench-agent)** — A course project exploring a coding-agent workflow from requirements to build, test, and repair.
+- **[Raft-KV](https://github.com/Die4U23/Raft-KV)** — A C++17 three-node Raft key-value store with ReadIndex linearizable reads, RocksDB persistence, and bounded service queues.
+- **[EvoRec](https://github.com/Die4U23/EvoRec)** — Cold-start recommendation research for dynamic catalogs, spanning R01–R06 offline experiments and a locally persisted demo.
+- **[SearchPilot](https://github.com/Die4U23/SearchPilot)** — A reproducible search and ad-ranking lab with BM25/vector/RRF retrieval, CTR scoring and calibration, and source-tracked experiments.
+- **[ArcBench Agent](https://github.com/Die4U23/arcbench-agent)** — A CS3604 project building a Python coding agent with explicit orchestration and local build/test/repair; first Runner end-to-end validation is pending.
 
 I also write about algorithms, C++, and software engineering on my [blog](https://mengsblog.top).
 
